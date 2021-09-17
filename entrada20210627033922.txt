@@ -1,0 +1,138 @@
+2
+
+Fórmula 1, 2020
+
+24
+Jason Bottom, McLaren (Mercedes)
+Jerry Lewis Hamilton, McLaren (Mercedes)
+Michael Schumasso, Mercedes (Mercedes)
+Nico Rosbife, Mercedes (Mercedes)
+Sebastian Pappel, Red Bull (Renault)
+Mark Bebber, Red Bull (Renault)
+Felipe Pasta, Ferrari (Ferrari)
+Fernando Afonso, Ferrari (Ferrari)
+Rubens Barriquebra, Williams (Cosworth)
+Nico Inkrivelhulk, Williams (Cosworth)
+Robert Cubico, Renault (Renault)
+Vitaly Petregulhov, Renault (Renault)
+Adrian Grosso, Force India (Mercedes)
+Vitantonio Tiuzzi, Force India (Mercedes)
+Sebastien Boemio, Toro Rosso (Ferrari)
+Jaime Alguemsuave, Toro Rosso (Ferrari)
+Jarro Bulli, Lotus (Cosworth)
+Heikki Kovarrasen, Lotus (Cosworth)
+Karun Chanbinhok, Hispania (Cosworth)
+Bruno Megasena, Hispania (Cosworth)
+Kamui Kambalashi, BMW Sauber (Ferrari)
+Pedro de lo Cravo, BMW Sauber (Ferrari)
+Timo Colt, Virgin (Cosworth)
+Lucas Semgrassi, Virgin (Cosworth)
+
+10 25 18 15 12 10 8 6 4 2 1
+
+3
+
+GP do Bahrein
+Fernando Afonso, Ferrari (Ferrari)
+Felipe Pasta, Ferrari (Ferrari)
+Jerry Lewis Hamilton, McLaren (Mercedes)
+Sebastian Pappel, Red Bull (Renault)
+Nico Rosbife, Mercedes (Mercedes)
+Michael Schumasso, Mercedes (Mercedes)
+Jason Bottom, McLaren (Mercedes)
+Mark Bebber, Red Bull (Renault)
+Vitantonio Tiuzzi, Force India (Mercedes)
+Rubens Barriquebra, Williams (Cosworth)
+Robert Cubico, Renault (Renault)
+Adrian Grosso, Force India (Mercedes)
+Jaime Alguemsuave, Toro Rosso (Ferrari)
+Nico Inkrivelhulk, Williams (Cosworth)
+Heikki Kovarrasen, Lotus (Cosworth)
+Sebastien Boemio, Toro Rosso (Ferrari)
+Jarro Bulli, Lotus (Cosworth)
+Pedro de lo Cravo, BMW Sauber (Ferrari)
+Bruno Megasena, Hispania (Cosworth)
+Timo Colt, Virgin (Cosworth)
+Vitaly Petregulhov, Renault (Renault)
+Kamui Kambalashi, BMW Sauber (Ferrari)
+Lucas Semgrassi, Virgin (Cosworth)
+Karun Chanbinhok, Hispania (Cosworth)
+
+GP da Australia
+Jason Bottom, McLaren (Mercedes) 
+Robert Cubico, Renault (Renault)
+Felipe Pasta, Ferrari (Ferrari)
+Fernando Afonso, Ferrari (Ferrari)
+Nico Rosbife, Mercedes (Mercedes)
+Jerry Lewis Hamilton, McLaren (Mercedes)
+Vitantonio Tiuzzi, Force India (Mercedes)
+Rubens Barriquebra, Williams (Cosworth)
+Mark Bebber, Red Bull (Renault)
+Michael Schumasso, Mercedes (Mercedes)
+Jaime Alguemsuave, Toro Rosso (Ferrari)
+Pedro de lo Cravo, BMW Sauber (Ferrari)
+Heikki Kovarrasen, Lotus (Cosworth)
+Karun Chanbinhok, Hispania (Cosworth)
+Timo Colt, Virgin (Cosworth)
+Lucas Semgrassi, Virgin (Cosworth)
+Sebastian Pappel, Red Bull (Renault)
+Adrian Grosso, Force India (Mercedes)
+Vitaly Petregulhov, Renault (Renault)
+Bruno Megasena, Hispania (Cosworth)
+Sebastien Boemio, Toro Rosso (Ferrari)
+Nico Inkrivelhulk, Williams (Cosworth)
+Kamui Kambalashi, BMW Sauber (Ferrari)
+Jarro Bulli, Lotus (Cosworth)
+
+GP da Malasia
+Sebastian Pappel, Red Bull (Renault)
+Mark Bebber, Red Bull (Renault)
+Nico Rosbife, Mercedes (Mercedes)
+Robert Cubico, Renault (Renault)
+Adrian Grosso, Force India (Mercedes)
+Jerry Lewis Hamilton, McLaren (Mercedes)
+Felipe Pasta, Ferrari (Ferrari)
+Jason Bottom, McLaren (Mercedes)
+Jaime Alguemsuave, Toro Rosso (Ferrari)
+Nico Inkrivelhulk, Williams (Cosworth)
+Sebastien Boemio, Toro Rosso (Ferrari)
+Rubens Barriquebra, Williams (Cosworth)
+Fernando Afonso, Ferrari (Ferrari)
+Lucas Semgrassi, Virgin (Cosworth)
+Karun Chanbinhok, Hispania (Cosworth)
+Bruno Megasena, Hispania (Cosworth)
+Jarro Bulli, Lotus (Cosworth)
+Heikki Kovarrasen, Lotus (Cosworth)
+Vitaly Petregulhov, Renault (Renault)
+Vitantonio Tiuzzi, Force India (Mercedes)
+Michael Schumasso, Mercedes (Mercedes)
+Kamui Kambalashi, BMW Sauber (Ferrari)
+Timo Colt, Virgin (Cosworth)
+Pedro de lo Cravo, BMW Sauber (Ferrari)
+
+Corrida de Tartarugas de Angola, 2021
+
+5
+Leonardo, Flash Turtles
+Michaelangelo, United Turtles
+Donatello, Turtles Stars
+Mestre Splinter, Infinity Turtles
+Elio, Space Turtles
+
+3 10 6 2
+
+2
+
+Corrida do ISPTEC
+Elio, Space Turtles 
+Michaelangelo, United Turtles 
+Leonardo, Flash Turtles 
+Mestre Splinter, Infinity Turtles
+Donatello, Turtles Stars
+
+Corrida da UTEC
+Donatello, Turtles Stars 
+Mestre Splinter, Infinity Turtles 
+Michaelangelo, United Turtles 
+Elio, Space Turtles
+Leonardo, Flash Turtles

@@ -1,0 +1,67 @@
+2
+
+Fórmula 1, 2020
+
+Classificação após 3 provas realizadas
+
+Pilotos
+
+1. Felipe Pasta, Ferrari (Ferrari), 39 pontos
+2. Fernando Afonso, Ferrari (Ferrari), 37 pontos
+3. Sebastian Pappel, Red Bull (Renault), 37 pontos
+4. Jason Bottom, McLaren (Mercedes), 35 pontos
+5. Nico Rosbife, Mercedes (Mercedes), 35 pontos
+6. Jerry Lewis Hamilton, McLaren (Mercedes), 31 pontos
+7. Robert Cubico, Renault (Renault), 30 pontos
+8. Mark Bebber, Red Bull (Renault), 24 pontos
+9. Adrian Grosso, Force India (Mercedes), 10 pontos
+10. Michael Schumasso, Mercedes (Mercedes), 9 pontos
+11. Vitantonio Tiuzzi, Force India (Mercedes), 8 pontos
+12. Rubens Barriquebra, Williams (Cosworth), 5 pontos
+13. Jaime Alguemsuave, Toro Rosso (Ferrari), 2 pontos
+14. Nico Inkrivelhulk, Williams (Cosworth), 1 pontos
+15. Bruno Megasena, Hispania (Cosworth), 0 pontos
+16. Heikki Kovarrasen, Lotus (Cosworth), 0 pontos
+17. Jarro Bulli, Lotus (Cosworth), 0 pontos
+18. Kamui Kambalashi, BMW Sauber (Ferrari), 0 pontos
+19. Karun Chanbinhok, Hispania (Cosworth), 0 pontos
+20. Lucas Semgrassi, Virgin (Cosworth), 0 pontos
+21. Pedro de lo Cravo, BMW Sauber (Ferrari), 0 pontos
+22. Sebastien Boemio, Toro Rosso (Ferrari), 0 pontos
+23. Timo Colt, Virgin (Cosworth), 0 pontos
+24. Vitaly Petregulhov, Renault (Renault), 0 pontos
+
+Equipas
+
+1. Ferrari (Ferrari), 76 pontos
+2. McLaren (Mercedes), 66 pontos
+3. Red Bull (Renault), 61 pontos
+4. Mercedes (Mercedes), 44 pontos
+5. Renault (Renault), 30 pontos
+6. Force India (Mercedes), 18 pontos
+7. Williams (Cosworth), 6 pontos
+8. Toro Rosso (Ferrari), 2 pontos
+9. BMW Sauber (Ferrari), 0 pontos
+10. Hispania (Cosworth), 0 pontos
+11. Lotus (Cosworth), 0 pontos
+12. Virgin (Cosworth), 0 pontos
+
+Corrida de Tartarugas de Angola, 2021
+
+Classificação após 2 provas realizadas
+
+Pilotos
+
+1. Donatello, Turtles Stars, 10 pontos
+2. Elio, Space Turtles, 10 pontos
+3. Michaelangelo, United Turtles, 8 pontos
+4. Mestre Splinter, Infinity Turtles, 6 pontos
+5. Leonardo, Flash Turtles, 2 pontos
+
+Equipas
+
+1. Space Turtles, 10 pontos
+2. Turtles Stars, 10 pontos
+3. United Turtles, 8 pontos
+4. Infinity Turtles, 6 pontos
+5. Flash Turtles, 2 pontos

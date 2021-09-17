@@ -246,3 +246,4 @@ Flash Turtles, 2 pontos
 A saída deve ser armazenada num ficheiro de texto com a seguinte nomenclatura
 “YYYYMMDDhhmmss.txt “em que YYYYMMDDhhmmss é o formato da data e hora actual.
 O programa deve de igual modo permitir a leitura do ficheiro.
+# Race-Sports-XPTO
